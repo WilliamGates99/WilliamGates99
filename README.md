@@ -1,5 +1,5 @@
 ## Hey! I'm William. 👋🏻
-I have been a Native Android Developer for over four years and currently work as a freelancer. I specialize in both Kotlin and Java Android Development. I also have some experience in Web Development.
+I have been a Native Android Developer for over four years and currently work as a freelancer. I specialize in both Kotlin and Java Android Development. I also have some experience in Web Development.</br>
 I am dedicated to continuously developing, implementing, and adopting new technologies to maximize development efficiency and produce innovative applications.
 
 In addition to my skills in coding, I am skilled in UI/UX Design and English Translation.
