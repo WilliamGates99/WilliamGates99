@@ -1,11 +1,12 @@
 ## Hey! I'm William. 👋🏻
-I have been a Native Android Developer for over four years and currently work as a freelancer. I specialize in both Kotlin and Java Android Development. I also have some experience in Web Development.</br>
+I have been a <b>Native Android Developer</b> for over <b>four years</b> and currently work as a freelancer. I specialize in both <b>Kotlin</b> and <b>Java</b> Android Development. I also have some experience in <b>Web Development</b>.</br>
 I am dedicated to continuously developing, implementing, and adopting new technologies to maximize development efficiency and produce innovative applications.
 
-In addition to my skills in coding, I am skilled in UI/UX Design and English Translation.
+In addition to my skills in coding, I am skilled in <b>UI/UX Design</b> and <b>English to Persian Translation</b>.
 
 ## Skills
-- 👨🏻‍💻 Kotlin, Java, Clean Architecture, MVVM, HTML, CSS
+- 👨🏻‍💻 Kotlin, Java, HTML & CSS
+- 👷🏻‍♂️ MVVM with Clean Architecture, DI with Hilt, TDD
 - ⚙️ Firebase, RESTful WebServices, Apollo GraphQL
 - 💽 ROOM Library, SQLite, SQL
 - 🖼️ UI/UX Design
