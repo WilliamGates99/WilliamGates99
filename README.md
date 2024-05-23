@@ -21,10 +21,10 @@ In addition to my skills in coding, I am skilled in <b>UI/UX Design</b> and <b>E
 ## Contact Me
 <p align="center">
   <samp>
-    <a href="https://linkedin.com/in/WilliamGates99">linkedin</a> •
+    <a href="https://linkedin.com/in/YasserRoshandel">linkedin</a> •
     <a href="https://dribbble.com/WilliamGates99">dribbble</a> •
     <a href="https://t.me/WilliamGates99">telegram</a> •
-		<a href="https://twitter.com/WilliamGates99">twitter</a> •
+		<a href="https://x.com/WilliamGates99">x</a> •
 		<a href="https://instagram.com/WilliamGates99">instagram</a> •
     <a href="https://discord.com/users/289402493824401408">discord</a> •
     <a href="mailto:william.gates.3299@gmail.com">email</a> •
