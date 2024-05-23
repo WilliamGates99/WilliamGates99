@@ -6,7 +6,7 @@ In addition to my skills in coding, I am skilled in <b>UI/UX Design</b> and <b>E
 
 ## Skills
 - 👨🏻‍💻 Kotlin • Java • Jetpack Compose • Kotlin Flows
-- 👷🏻‍♂️ MVVM with Clean Architecture • DI with Hilt • TDD
+- 👷🏻‍♂️ MVVM & MVI with Clean Architecture • DI with Hilt • TDD
 - ⚙️ Firebase • Ktor Client • Retrofit • Apollo GraphQL
 - 💽 ROOM Database • SQLite • SQL
 - 🖼️ UI/UX Design
