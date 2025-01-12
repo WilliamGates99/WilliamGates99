@@ -1,8 +1,8 @@
 ## Hey! I'm William. 👋🏻
-I have been an <b>Android Developer</b> for over <b>five years</b> and currently work as a freelancer. I specialize in both <b>Kotlin</b> and <b>Java</b> Android Development.
-I am dedicated to continuously developing, implementing, and adopting new technologies to maximize development efficiency and produce innovative applications.
+I am a passionate **Android Developer** with over five years of experience creating efficient, innovative, and user-centric mobile applications.<br>
+Committed to staying at the forefront of technology, I actively explore and integrate emerging tools and practices to enhance development efficiency.
 
-In addition to my skills in coding, I am skilled in <b>UI/UX Design</b> and <b>English to Persian Translation</b>.
+In addition to my development skills, I have a keen interest in UI/UX design, which helps me contribute to creating user-friendly and visually appealing applications.
 
 ## Skills
 - 👨🏻‍💻 Kotlin • Java • Jetpack Compose • Kotlin Flows
