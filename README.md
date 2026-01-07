@@ -1,8 +1,5 @@
 ## Hey! I'm William. 👋🏻
-I am a passionate **Android Developer** with over five years of experience creating efficient, innovative, and user-centric mobile applications.<br>
-Committed to staying at the forefront of technology, I actively explore and integrate emerging tools and practices to enhance development efficiency.
-
-In addition to my development skills, I have a keen interest in UI/UX design, which helps me contribute to creating user-friendly and visually appealing applications.
+Senior **Android Developer** with 6+ years of experience building scalable, high-performance mobile apps at **Fanora** and **Xeniac**. Delivered 10+ user-centric applications (100K+ combined downloads) using **Kotlin**, **Jetpack Compose**, and **Clean Architecture**.
 
 ## Skills
 - 👨🏻‍💻 Kotlin • Java • Jetpack Compose • Kotlin Flows
