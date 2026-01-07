@@ -15,7 +15,7 @@ In addition to my development skills, I have a keen interest in UI/UX design, wh
 <br/>
 <p align="center">
 	<img src="https://github-readme-stats-psi-flax-89.vercel.app/api?username=WilliamGates99&theme=blue-green&hide_border=true&count_private=true&show_icons=true" >
-	<img src="https://github-readme-streak-stats.herokuapp.com?user=WilliamGates99&theme=blue-green&hide_border=true&count_private=tru&date_format=M%20j%5B%2C%20Y%5D" >
+	<img src="https://github-readme-streak-stats-dun-five.vercel.app?user=WilliamGates99&theme=blue-green&hide_border=true&count_private=tru&date_format=M%20j%5B%2C%20Y%5D" >
 </p>
 
 ## Contact Me
